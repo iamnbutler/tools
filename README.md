@@ -20,6 +20,7 @@ Some of these are private repos, so I've described them here.
 - [yap](https://github.com/iamnbutler/yap): menu bar dictation built for talking to Claude Code: hold a key, talk, and the text lands in the app in front.
 
 # Research
+- **[cairn](https://github.com/iamnbutler/cairn)**: UIs where every action is a claim with a durable id and machine-checked evidence, in Lean, Swift and Metal.
 - **[crdt](https://github.com/iamnbutler/crdt)**: plain-text CRDT in pure TypeScript, benchmarked against Yjs, Loro and Automerge.
 - **[multibuffer](https://github.com/iamnbutler/multibuffer)**: Zed-style multibuffer editor component for the web.
 - **[tasks](https://github.com/iamnbutler/tasks)**: agent orchestrator that runs coding agents in Linux VMs.
