@@ -2,13 +2,14 @@
 
 These are the things I've built, and the things I use in my workflow most frequently. I like to build my own tools, and when I find gaps in my workflow I try to fill them or extend a tool I've made.
 
-Some of these are private repos, so I've described them here.
+Some of these are private repos, so I've described them here. Tools I use but didn't make are marked with who made them.
 
 
 # Things I use
 
 - **[autoblog](https://github.com/iamnbutler/autoblog)**: coding agents write up what we do as a private journal.
 - **[charts](https://chart-atlas.iamnbutler.pages.nexthub.sh)**: 152 chart types in a searchable grid, for picking a chart form.
+- [CleanShot X](https://cleanshot.com) *(by MTW)*: screenshots and screen recordings for the Mac. I annotate screenshots in it to give agents visual feedback.
 - **[desktop-tools](https://github.com/githubnext/desktop-tools)**: let agents see and operate native macOS apps, through an MCP server and a signed app that holds the permissions.
 - [klaxon](https://github.com/iamnbutler/klaxon): menu bar reminders that escalate from a banner to a full-screen takeover, and reach your phone through iMessage and Pushover.
 - [margin](https://github.com/iamnbutler/margin): review agents' pages and message their Claude Code sessions from your phone.
